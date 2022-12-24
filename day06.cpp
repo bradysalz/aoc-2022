@@ -61,8 +61,8 @@ int main(int argc, char **argv)
         return -1;
     }
 
-    cout << "Day 5 Part 1 " << part_one(argv[1], true) << endl;
-    cout << "Day 5 Part 2 " << part_one(argv[1], false) << endl;
+    cout << "Day 6 Part 1 " << part_one(argv[1], true) << endl;
+    cout << "Day 6 Part 2 " << part_one(argv[1], false) << endl;
 
     return 1;
 }
